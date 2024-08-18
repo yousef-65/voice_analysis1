@@ -1,0 +1,25 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+tqdm
+python-box==6.0.2
+pyYAML
+ensure==1.0.2
+joblib
+dvc
+notebook
+
+# Machine Learning and Data Processing
+scikit-learn
+librosa
+tensorflow
+
+# Web Development
+Flask
+Flask-Cors
+
+# Miscellaneous
+types-PyYAML
